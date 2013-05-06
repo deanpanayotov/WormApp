@@ -1,0 +1,15 @@
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\obj\Debug\App.g.i.cs
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\obj\Debug\MainPage.g.i.cs
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\obj\Debug\WormApp.g.resources
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\Bin\Debug\ApplicationIcon.png
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\Bin\Debug\Background.png
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\Bin\Debug\WormApp.dll
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\Bin\Debug\WormApp.pdb
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\Bin\Debug\AppManifest.xaml
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\Bin\Debug\WormApp.xap
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\obj\Debug\WormApp.dll
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\obj\Debug\WormApp.pdb
+c:\documents and settings\073468\my documents\visual studio 2010\Projects\WormApp\WormApp\obj\Debug\XapCacheFile.xml
+C:\Documents and Settings\073468\My Documents\Visual Studio 2010\Projects\WormApp\WormApp\Bin\Debug\clear.png
+C:\Documents and Settings\073468\My Documents\Visual Studio 2010\Projects\WormApp\WormApp\Bin\Debug\settings.png
